@@ -1,0 +1,13 @@
+test/
+venv/
+
+__pycache__
+__model__
+__test__
+
+detectionModel/models/lstm-with-embedding/GloVe/
+*/anaconda_projects/
+.ipynb_checkpoints/
+*/.pytest_cache/
+*/GloVe/
+mlruns/recursive_hybrid/best_recursive_model.pt
